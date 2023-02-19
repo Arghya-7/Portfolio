@@ -16,6 +16,10 @@ body
     text-decoration: none;
     padding: 20px;
 }
+a
+{
+    text-decoration: none;
+}
 header{
     display: flex;
 }
@@ -41,7 +45,7 @@ header{
     padding: 5px;
     margin-left: 20px;
 }
-.linkdin
+.linkdin, .mail
 {
     padding: 0;
     border: 2px solid black;
@@ -81,4 +85,30 @@ main div
 .remove-underline
 {
     text-decoration: none;
+}
+.main-edu
+{
+    display: flex;
+    margin: 40px;
+}
+.ten-th , .twelve_th, .college-edu
+{
+    padding: 20px;
+    background-color: #cdb4db;
+    margin: 20px;
+    border-radius: 10px;
+}
+.contact-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#linkdin-logo
+{
+    margin: 10px;
+}
+#mail-logo
+{
+    margin: 10px;
 }
