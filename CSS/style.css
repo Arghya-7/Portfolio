@@ -112,3 +112,28 @@ main div
 {
     margin: 10px;
 }
+.about-main
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.right
+{
+    text-align: left;
+}
+.right , .left
+{
+    background-color: #B9F3E4;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.about-picture
+{
+    margin: 30px;
+}
+.about-dp
+{
+    border-radius: 250px;
+}
