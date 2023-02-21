@@ -137,3 +137,36 @@ main div
 {
     border-radius: 250px;
 }
+.resume-download
+{
+    margin: 30px;
+}
+.projects
+{
+    display: flex;
+    justify-content: center;
+}
+.project-col-1 div
+{
+    width:325px;
+    height: 40%;
+    background-color: #3FBACC;
+    margin-top: 30%;
+    margin-bottom: 30%;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.project-writing
+{
+    margin: 10%;
+    /* background-color: #61DDA6; */
+    width: 100px;
+    height: 400px;
+}
+.project-writing div
+{
+    background-color: #61DDA6;
+    padding: 10px;
+    border-radius: 5px;
+}
