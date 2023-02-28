@@ -170,3 +170,21 @@ main div
     padding: 10px;
     border-radius: 5px;
 }
+table
+{
+    width: 60%;
+}
+table,td,th
+{
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+th{
+    padding: 10px;
+    background-color: #8ecae6;
+}
+td
+{
+    background-color: #8ecae6;
+    padding: 20px;
+}
